@@ -1,0 +1,9 @@
+.interest-code {
+    height: fit-content;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+:host ::ng-deep .tree ul.is-open {
+    display: inline;
+}
